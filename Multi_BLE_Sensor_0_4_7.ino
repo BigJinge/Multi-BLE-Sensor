@@ -1,5 +1,5 @@
 /*
-    Multi BLE Sensor 0.4.6 - Richard Hedderly 2019
+    Multi BLE Sensor 0.4.7 - Richard Hedderly 2019
 
     Based on heart sensor code by Andreas Spiess which was based on a Neil Kolban example.
     
